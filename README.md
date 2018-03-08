@@ -34,6 +34,6 @@ a{text-decoration:none;}
      <script>fnTest();</script>
     </section>
     <footer>
-     <p>&copy; 20XXMade by Korea, All rights reserved,</p><footer>
+     <p>&copy; 20XXMade by Korea. All rights reserved.</p><footer>
     </body>
     </html>
