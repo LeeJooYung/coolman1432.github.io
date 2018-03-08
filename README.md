@@ -1,20 +1,19 @@
-Index.html(1)
 <!doctype html> <!--    index.html    -->
 <html>
 <head>
-<meta http-equiv="Content-Ttpe"content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Type"content="text/html;charset=utf-8"/>
 <meta name="viweport"content="width=device-width,initial-scale=1"/>
 <style>
 body{font-family:Verdana, sans-serif;font-size:0.8em;}
 header, nav, section, article, footer
-{border:1px solid gray:; margin:5px; padding:8px;}
+{border:1px solid gray; margin:5px; padding:8px;}
 section#displayArea{height:210px;}
 nav ul {margin:0; padding:0;}
 nav ul li {display:inline; margin:5px; }
 a{text-decoration:none;}
 #id_form{width:100px;height:14px;color:red;}
 </style>
-<script type="txt/javascript">
+<script type="text/javascript">
  function fnTest(){
  document.write("자바스크립트환영!")
  alert("자바 스크립트환영!!");
