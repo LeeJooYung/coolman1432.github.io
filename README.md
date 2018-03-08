@@ -1,6 +1,6 @@
 Index.html(1)
 <!doctype html> <!--    index.html    -->
-<html?
+<html>
 <head>
 <meta http-equiv="Content-Ttpe"content="text/html;charset=utf-8"/>
 <meta name="viweport"content="width=device-width,initial-scale=1"/>
